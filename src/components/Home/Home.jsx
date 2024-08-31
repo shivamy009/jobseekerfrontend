@@ -3,7 +3,8 @@ import { useContext } from "react";
 // import { Context } from "../../main";
 import { Navigate } from "react-router-dom";
 import HeroSection from "./HeroSection";
-import HowItWorks from "./HowItworks";
+ import HowItWorks from '../.././../src/components/Home/HowItWorks'
+
 import PopularCategories from "./PopularCategories";
 import PopularCompanies from "./PopularCompnies";
 // import HeroSection from "./HeroSection";
